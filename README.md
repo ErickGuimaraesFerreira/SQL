@@ -1,6 +1,4 @@
-<h1>📊🔍👨‍💻👩‍💻🔥</h1>
 
-📊🔍💻🔥
 
 Bem-vindo ao meu repositório de projetos de análise de dados em SQL! Este é um lugar onde eu demonstro minhas habilidades em análise de dados 🔍📊 e conhecimentos em SQL 👨‍💻👩‍💻. Aqui você encontrará uma coleção de projetos em SQL, que mostram meu conhecimento na extração e manipulação de dados.
 
